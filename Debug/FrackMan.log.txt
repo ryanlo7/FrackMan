@@ -1,0 +1,7 @@
+﻿  StudentWorld.cpp
+  main.cpp
+  GameWorld.cpp
+  GameController.cpp
+  Actor.cpp
+  Generating Code...
+  FrackMan.vcxproj -> C:\Users\Ryan\Documents\Visual Studio 2015\Projects\CS32\FrackMan\Debug\FrackMan.exe
